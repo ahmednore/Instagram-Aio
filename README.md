@@ -11,9 +11,11 @@ I want to add more features but don't know what.
 
 ```> Comment Spammer```
 
-# Screenshot
 
-[Here](https://github.com/ahmednore/Instagram-Aio/blob/main/ig_aio.png)
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/ahmednore/Instagram-Aio/main/ig_aio.png)
+
 
 
 ## Custom work
