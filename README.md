@@ -21,3 +21,6 @@ I want to add more features but don't know what.
 ## Custom work
 
 ```For custom work contact $ Og#5813```
+
+
+credits to https://github.com/Hazza3100
